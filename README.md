@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **Vue and Django**
+- 🌱 I’m currently learning **Django**
 
 - 👯 I’m looking to collaborate on ** Chatbot Development**
 
 - 🤝 I’m looking for help with **Artificial Intelligence**
 
-- 💬 Ask me about **Vue Js,Python ,Django**
+- 💬 Ask me about **Js ,Python ,Django**
 
 - 📫 How to reach me **azharalisp059@gmail.com**
 
