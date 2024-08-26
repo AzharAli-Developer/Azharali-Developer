@@ -1,4 +1,4 @@
-<h4 align="center">search on google "Azhar Ali Developer" and see Photos </h4>
+<h4 align="center">search on google "Azhar Ali Developer" </h4>
 <h1 align="center">Hi 👋, I'm Azhar Ali</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
